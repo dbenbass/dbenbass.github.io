@@ -1,18 +1,17 @@
-/* Theme Styles 
+/* Theme Styles
  *
  * Styles for setting a custom theme for your site
- ===================================================*/ 
+ ===================================================*/
 .logo { padding: 2em; }
 p { font-size: 1.1em }
 .home-head {
-	background: url('../assets/images/rupp-drive-brutalism.jpg');
-	background-repeat: no-repeat; 
+ 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
 	min-height: 60vh;
 }
-.about-section { background: url('../assets/images/county-bldg-brutalist.jpg');
-	background-repeat: no-repeat; background-size: cover; background-position: center center; 
+.about-section { background: white);
+	background-repeat: no-repeat; background-size: cover; background-position: center center;
 	padding-top: 1.8em; padding-bottom: 1.8em;
 }
 .demo-cover-1 { background-image: url('../assets/images/apocalypse-architecture.jpg'); }
