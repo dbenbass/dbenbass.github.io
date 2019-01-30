@@ -106,8 +106,8 @@ body {
 .navbar-fixed-top .nav li a:focus,
 .navbar-fixed-top .nav li.active {
     outline: 0;
-    background-color:#FF0080 ;
-	color:#fff;
+    background-color:#BFFF00 ;
+	color:#000;
 }
 
 .navbar-toggle {
