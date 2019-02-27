@@ -20,6 +20,7 @@ body {
 	font-weight: 400;
 }
 
+
 /* --- logo --- */
 .site-logo {
 	margin-top:40px;
@@ -106,7 +107,7 @@ body {
 .navbar-fixed-top .nav li a:focus,
 .navbar-fixed-top .nav li.active {
     outline: 0;
-    background-color:#FF0080 ;
+    background-color: red;
 	color:#fff;
 }
 
@@ -138,6 +139,16 @@ body {
 
 }
 
+#portfolio {
+	padding-top:60px;
+	text-align:left;
+	padding-bottom:30px;
+	background-color:#fff;
+  color:#000;
+
+}
+
+
 /* ===========================
 --- General sections
 ============================ */
@@ -158,20 +169,23 @@ body {
 
 
 .section-heading h2 {
-	font-size: 40px;
-	letter-spacing: -1px;
-	text-transform: uppercase;
-	margin-bottom: 10px;
+	font-size: 20px;
+	letter-spacing: 1px;
+	margin-bottom: 5px;
 }
 
 .section-heading p {
 	font-weight: 300;
 	font-size: 12px;
 	line-height: 1.6em;
+  a:hover,
+  a:active {
+  background-color: red;
+}
 }
 
 .service-icon {
-	margin-bottom:50px;
+	margin-bottom:10px;
 
 }
 
@@ -204,7 +218,7 @@ footer a, .credits a {
 }
 
 footer a:hover, .credits a:hover {
-	color: #fff;
+	color: red;
 	text-decoration:none;
 }
 
