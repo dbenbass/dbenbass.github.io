@@ -125,6 +125,7 @@ body {
 #services {
 	text-align:left;
 	background-color:#000;
+  color:#FFF;
 }
 
 /* --- works --- */
@@ -133,6 +134,8 @@ body {
 	text-align:left;
 	padding-bottom:30px;
 	background-color:#fff;
+  color:#000;
+
 }
 
 /* ===========================
